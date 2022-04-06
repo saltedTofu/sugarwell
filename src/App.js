@@ -4,16 +4,14 @@ import './App.css';
 function App() {
   return (
     <div className="App">
-      <form style={styles}>
+      <form name="waterForm" method="POST" data-netlify="true">
         <label htmlFor="name">Name:</label>
         <input id="name" type="text"></input>
+        <button type="submit">Send</button>
       </form>
     </div>
   );
 }
 
-const styles = {
-
-}
 
 export default App;
