@@ -9,7 +9,10 @@ import WaterSoftener from './waterSoftener.jpg';
 import ProductImage from './productImage.png';
 import Form from './form.png';
 import Yang from './yang.jpg';
-import Logo2 from './logo2.png'
+import Logo2 from './logo2.png';
+import titleBG2 from './titleBG2.png';
+import NiceMan from './niceMan.png'
+import TruckMan from './TruckMan.jpg'
 import './App.css';
 
 function App() {
@@ -17,7 +20,7 @@ function App() {
     <div className="App">
       <header>
         <div id="headerContainer">
-          <img id="logoImage" src={Logo}/>
+          <img id="logoImage" src={Logo2}/>
           <nav id="navLinks">
             <a data-text="ABOUT" href="#main">ABOUT</a>
             <a data-text="SERVICES" href="#main2">SERVICES</a>
@@ -33,9 +36,14 @@ function App() {
         <img id="titleBG" src={titleBG}/>
         <div id="titleName">
           <img id="titleLogo" src={Logo2}/>
-          <p>asdasdas asdasdasd</p>
+          <h3>Quality Water Softeners, Professional Installation and Maintenance</h3>
           <img id="lineImage" src={Line}/>
           <button className='button'>Learn More</button>
+          <div id="titleImages">
+            <img src={NiceMan}/>
+            <img src={TruckMan}/>
+            <img src={Yang}/>
+          </div>
         </div>
       </div>
       <div id="main">
