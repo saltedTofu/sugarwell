@@ -2,6 +2,7 @@
   box-sizing: border-box;
   margin:0;
   padding:0;
+  
 }
 .App{
   width:100vw;
@@ -13,6 +14,7 @@
   background-color:#C1C8E4;
   color:white;
   font-family: 'Roboto', sans-serif;
+  cursor: url(Luna.png), auto;
 }
 h1{
   font-size: 3em;
