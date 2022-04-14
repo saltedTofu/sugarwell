@@ -1,0 +1,14 @@
+footer{
+    background-color:#C1C8E4;
+    color:#5680E9;
+    width:100%;
+  }
+  #socials{
+    display:flex;
+    flex-direction:row;
+    justify-content: center;
+  }
+  #copyright{
+    text-align: center;
+    padding:15px;
+  }
