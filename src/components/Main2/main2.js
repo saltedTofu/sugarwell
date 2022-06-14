@@ -25,7 +25,7 @@ function Main2(){
                     </div>
                     <div className="serviceExample mainDescription">
                         <img id="tapImage" alt="sink" src={Sink}/>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam rhoncus venenatis ex, tincidunt sodales magna suscipit ac.</p>
+                        <p>2pacific.com</p>
                     </div>
                 </div>
             </div>

@@ -24,10 +24,14 @@ function Contact(){
                 <div id="contactUs">
                     <h2>Contact Me Directly</h2>
                     <img src={Yang} alt="owner and founder" />
-                    <p>1111 Main St</p>
+                    <p>10600 Bellaire Blvd. Ste 140</p>
                     <p>Houston</p>
                     <p>Texas</p>
-                    <p>77478</p>
+                    <p>77072</p>
+                    <p>Store: 281-888-1283</p>
+                    <p>Cell: 832-867-9662</p>
+                    <p>Email: email here</p>
+                    <p>Ask for Joseph</p>
                 </div>
             </div>
         </div>

@@ -20,7 +20,7 @@ function Products(){
             <div className="productExample">
             <img src={ProductImage} alt="product"/>
             <div className="productDescription">
-                <h3>Water Purifier</h3>
+                <h3>RO</h3>
                 <p>The Pentair Water Softener is our premium, whole-house, on-demand salt-based water softening system.</p>
                 <ul>
                 <li>Effectively prevents hard water scale buildup in plumbing and appliances, helping to increase their efficiency and lifespan</li>
@@ -32,7 +32,7 @@ function Products(){
             <div className="productExample">
             <img src={ProductImage} alt="product"/>
             <div className="productDescription">
-                <h3>Water Filter</h3>
+                <h3>Ice Maker System</h3>
                 <p>The Pentair Water Softener is our premium, whole-house, on-demand salt-based water softening system.</p>
                 <ul>
                 <li>Effectively prevents hard water scale buildup in plumbing and appliances, helping to increase their efficiency and lifespan</li>
@@ -44,4 +44,19 @@ function Products(){
         </div>
     )
 }
+/*
+react slick carousel
+RO 2 pics
+Ice maker 2 pics
+product drop down in header
+products router, remove from home page
+use react router for multiple pages
+    -less content on home
+    -page for each product category (water softener, RO, ice maker, bidet)
+make logo in header link to home
+put reviews on front page
+puregen.com
+google business profile?
+aquatechHTX@gmail.com
+*/
 export default Products;

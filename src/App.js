@@ -23,3 +23,9 @@ function App() {
 }
 
 export default App;
+/*
+carousel where images on title are showing products like 2pacific.com
+hoods, bidet, water softener
+lotusseats.com
+add google maps embed
+*/

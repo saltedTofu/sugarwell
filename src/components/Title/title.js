@@ -12,7 +12,7 @@ function Title(){
             <img id="titleBG" src={titleBG} alt="water droplet"/>
             <div id="titleName">
                 <img id="titleLogo" src={Logo} alt="aquatech logo"/>
-                <h3>Quality Water Softeners, Professional Installation and Maintenance</h3>
+                <h3>Quality Water Filtration Systems, Professional Installation and Maintenance</h3>
                 <img id="lineImage" src={Line} alt="graphic line"/>
                 <button className='button'>Learn More</button>
                 <div id="titleImages">
